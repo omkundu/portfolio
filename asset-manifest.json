@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3fe9706c.css",
-    "main.js": "/portfolio/static/js/main.12e8313b.js",
+    "main.css": "/portfolio/static/css/main.78599853.css",
+    "main.js": "/portfolio/static/js/main.ba45afeb.js",
     "static/media/sugarcosmetic.png": "/portfolio/static/media/sugarcosmetic.a56a65c3e0d0bba01e85.png",
     "static/media/instacart.png": "/portfolio/static/media/instacart.34913a0a658e251fd5fc.png",
     "static/media/profilephoto1.jpg": "/portfolio/static/media/profilephoto1.2b0ff654e058ed317f02.jpg",
     "static/media/n.jpg": "/portfolio/static/media/n.6d010ef6ec20447e880c.jpg",
     "index.html": "/portfolio/index.html",
-    "main.3fe9706c.css.map": "/portfolio/static/css/main.3fe9706c.css.map",
-    "main.12e8313b.js.map": "/portfolio/static/js/main.12e8313b.js.map"
+    "main.78599853.css.map": "/portfolio/static/css/main.78599853.css.map",
+    "main.ba45afeb.js.map": "/portfolio/static/js/main.ba45afeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fe9706c.css",
-    "static/js/main.12e8313b.js"
+    "static/css/main.78599853.css",
+    "static/js/main.ba45afeb.js"
   ]
 }
