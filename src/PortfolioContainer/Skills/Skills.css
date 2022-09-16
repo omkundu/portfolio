@@ -128,3 +128,8 @@
 /* .node{
     background-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png";
 } */
+img{
+    margin-top: 8px;
+    font-size: 40px;
+    width:50px
+}
