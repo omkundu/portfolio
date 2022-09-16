@@ -51,6 +51,24 @@ export default function Skills() {
                     <div className='skillTitle'>Code Version Control</div>
                     <div className='skillInfo'>GitHub, Git</div>
                 </div>
+
+                <div className='skillBox skillbox7'>
+                    <div className='sillIcon'><img src='https://cdn-icons-png.flaticon.com/512/848/848525.png'></img></div>
+                    <div className='skillTitle'>Data Structure</div>
+                    <div className='skillInfo'>300+ Hours of DSA</div> 
+                </div>
+
+                <div className='skillBox skillbox8'>
+                    <div className='sillIcon'><img src="https://png.pngtree.com/png-vector/20190607/ourmid/pngtree-frontendinterfacemobilephonedeveloper-line-icon-png-image_1235458.jpg"></img></div>
+                    <div className='skillTitle'>Fronted Developer</div>
+                    <div className='skillInfo'>1200+ Hours of coding</div> 
+                </div>
+
+                <div className='skillBox skillbox9'>
+                    <div className='sillIcon'><img src="https://c3.klipartz.com/pngpicture/737/709/sticker-png-numix-circle-for-windows-mongodb-icon-thumbnail.png"></img></div>
+                    <div className='skillTitle'>Mongo DB</div>
+                    <div className='skillInfo'>Data Base</div> 
+                </div>
             </div>
         </div>
     </div>
