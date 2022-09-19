@@ -7,6 +7,7 @@ import Contact from "./PortfolioContainer/ContactMe/Contact";
 import Project from "./PortfolioContainer/Project/Project";
 import Footer from "./PortfolioContainer/Footer/Footer";
 import Skills from "./PortfolioContainer/Skills/Skills";
+import Calender from "./PortfolioContainer/Calender/Calender";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         {/* <Resume/> */}
         <Project/>
         <Skills/>
+      
         <Contact/>
         <Footer/>
     </div>
