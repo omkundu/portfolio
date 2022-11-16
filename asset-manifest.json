@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4efe974e.css",
-    "main.js": "/portfolio/static/js/main.305352cb.js",
+    "main.css": "/portfolio/static/css/main.37e4c9b7.css",
+    "main.js": "/portfolio/static/js/main.377cf94e.js",
+    "static/media/n.jpg": "/portfolio/static/media/n.fbe36b18bde94b968433.jpg",
+    "static/media/profilephoto1.jpg": "/portfolio/static/media/profilephoto1.fbe36b18bde94b968433.jpg",
     "static/media/sugarcosmetic.png": "/portfolio/static/media/sugarcosmetic.a56a65c3e0d0bba01e85.png",
     "static/media/UrbanCompany.png": "/portfolio/static/media/UrbanCompany.349edab510c2c0a17527.png",
     "static/media/instacart.png": "/portfolio/static/media/instacart.34913a0a658e251fd5fc.png",
-    "static/media/profilephoto1.jpg": "/portfolio/static/media/profilephoto1.2b0ff654e058ed317f02.jpg",
-    "static/media/n.jpg": "/portfolio/static/media/n.6d010ef6ec20447e880c.jpg",
     "static/media/GoDaday.png": "/portfolio/static/media/GoDaday.adc61da1d4556e7e3638.png",
     "index.html": "/portfolio/index.html",
-    "main.4efe974e.css.map": "/portfolio/static/css/main.4efe974e.css.map",
-    "main.305352cb.js.map": "/portfolio/static/js/main.305352cb.js.map"
+    "main.37e4c9b7.css.map": "/portfolio/static/css/main.37e4c9b7.css.map",
+    "main.377cf94e.js.map": "/portfolio/static/js/main.377cf94e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4efe974e.css",
-    "static/js/main.305352cb.js"
+    "static/css/main.37e4c9b7.css",
+    "static/js/main.377cf94e.js"
   ]
 }
