@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.37e4c9b7.css",
-    "main.js": "/portfolio/static/js/main.377cf94e.js",
+    "main.js": "/portfolio/static/js/main.b94d4f28.js",
     "static/media/n.jpg": "/portfolio/static/media/n.fbe36b18bde94b968433.jpg",
     "static/media/profilephoto1.jpg": "/portfolio/static/media/profilephoto1.fbe36b18bde94b968433.jpg",
     "static/media/sugarcosmetic.png": "/portfolio/static/media/sugarcosmetic.a56a65c3e0d0bba01e85.png",
+    "static/media/omkundu.pdf": "/portfolio/static/media/omkundu.4177cf5121b693493ba9.pdf",
     "static/media/UrbanCompany.png": "/portfolio/static/media/UrbanCompany.349edab510c2c0a17527.png",
     "static/media/instacart.png": "/portfolio/static/media/instacart.34913a0a658e251fd5fc.png",
     "static/media/GoDaday.png": "/portfolio/static/media/GoDaday.adc61da1d4556e7e3638.png",
     "index.html": "/portfolio/index.html",
     "main.37e4c9b7.css.map": "/portfolio/static/css/main.37e4c9b7.css.map",
-    "main.377cf94e.js.map": "/portfolio/static/js/main.377cf94e.js.map"
+    "main.b94d4f28.js.map": "/portfolio/static/js/main.b94d4f28.js.map"
   },
   "entrypoints": [
     "static/css/main.37e4c9b7.css",
-    "static/js/main.377cf94e.js"
+    "static/js/main.b94d4f28.js"
   ]
 }
