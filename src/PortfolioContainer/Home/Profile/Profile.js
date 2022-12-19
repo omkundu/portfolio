@@ -1,6 +1,9 @@
 import React from 'react'
 import Typical from 'react-typical';
 import "./Profile.css";
+import omkundu from "../../../assets/omkundu.pdf"
+// import js from '../../assets/icons8-javascript-144.png';
+
 
 export default function Profile() {
   return (
@@ -49,8 +52,9 @@ export default function Profile() {
                         </span>
                     </span>
                 </div>
-                <div className="profile-optins">
-                    <a href="https://drive.google.com/file/d/1NBpg7EhM-JnUERqSUTFOekC9036jc3Xe/view?usp=sharing" target="_blank" download="resume.pdf">
+                <div className="profile-optins" >
+                    <a href= {omkundu} download="omkundu" target="_blank" >
+                    {/* "https://drive.google.com/file/d/1NBpg7EhM-JnUERqSUTFOekC9036jc3Xe/view?usp=sharing" */}
                         <button className='resumeButton'>Get Resume</button>
                     </a>
                 </div>
