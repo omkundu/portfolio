@@ -7,6 +7,13 @@ import {TbExternalLink} from 'react-icons/tb';
 import html5 from '../../assets/icons8-html-5-144.png';
 import css3 from '../../assets/icons8-css3-144.png';
 import js from '../../assets/icons8-javascript-144.png';
+import GoDaday from "../../assets/GoDaday.png"
+import UrbanCompany from "../../assets/UrbanCompany.png"
+import react from "../../assets/react-40.png"
+import redux from "../../assets/redux-96.png"
+import chakra from "../../assets/chakra-ui.png"
+import Api from "../../assets/Api.png"
+
 
 export default function Project() {
     
@@ -47,6 +54,14 @@ export default function Project() {
 
 
 
+
+
+
+
+        
+
+
+
         <div className="project-card">
             <div className='projectName'>
                 <h3>Messho clone</h3>
@@ -71,12 +86,61 @@ export default function Project() {
         </div>
 
 
-        {/* <div className="project-card">
-            
-        </div>
+
+
         <div className="project-card">
-            hello
-        </div> */}
+            <div className='projectName'>
+                <h3>GoDaday clone</h3>
+            </div>
+            <div className='projectImg'>
+                <img src={GoDaday} alt="" />
+            </div>
+            <div className='projectInfo'>
+                <div className="contentProject">
+                This was my first react individual project, It took me around 5 days to complete the task. In this project,  I had to build the homepage and also subscription page with full functionality.
+                </div>
+                <div className='techStack'>
+               
+                    <img src={react}/>
+                    <img src={chakra}/>
+                    <img src={ Api}/>
+                    
+                </div>
+                <div className='projectLinks'>
+                    <a className='projectbtn1' href="https://github.com/omkundu/spotted-lamp-2366/tree/master/my-app" target='_blank'><AiOutlineGithub/> GitHub</a>
+                    <a className='projectbtn2' href="https://rad-bonbon-6d8883.netlify.app/" target='_blank'>Demo <TbExternalLink/></a>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div className="project-card">
+            <div className='projectName'>
+                <h3>Urban Company clone</h3>
+            </div>
+            <div className='projectImg'>
+                <img src={UrbanCompany} alt="" />
+            </div>
+            <div className='projectInfo'>
+                <div className="contentProject">
+                This was our first react collaborative project, there were  five members assigned for the project. It took around 5 days to complete the task. In this project, my contribution was I had to build the homepage and also login/signup page with full functionality.
+                </div>
+                <div className='techStack'>
+           
+                    <img src={react}/>
+                    <img src={chakra}/>
+                    <img src={redux}/>
+                </div>
+                <div className='projectLinks'>
+                    <a className='projectbtn1' href="https://github.com/sonuprasad66/tense-visitor-349/tree/main/urban_company" target='_blank'><AiOutlineGithub/> GitHub</a>
+                    <a className='projectbtn2' href="https://jocular-babka-8a3ec0.netlify.app/" target='_blank'>Demo <TbExternalLink/></a>
+                </div>
+            </div>
+        </div>
+
+
+
         </div>
     </div>
 </div>

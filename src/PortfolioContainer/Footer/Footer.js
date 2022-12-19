@@ -17,9 +17,7 @@ export default function Footer() {
                             <a href="https://www.linkedin.com/in/om-kundu-b4b593162/" target="_blank">
                                 <i className="fa fa-linkedin" aria-hidden="true"></i>
                             </a>
-                            <a href="https://www.instagram.com/mr.omkundu02/" target="_blank">
-                                <i className='fa fa-instagram'></i>
-                            </a>
+                      
                             <a href="https://www.youtube.com/channel/UCXg34gTv4ub1hUGOgfMhjgw" target="_blank">
                                 <i className='fa fa-youtube-play'></i>
                             </a>
