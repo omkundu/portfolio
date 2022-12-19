@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.37e4c9b7.css",
-    "main.js": "/portfolio/static/js/main.b94d4f28.js",
+    "main.css": "/portfolio/static/css/main.55c9ea8d.css",
+    "main.js": "/portfolio/static/js/main.4cdc09ff.js",
     "static/media/n.jpg": "/portfolio/static/media/n.fbe36b18bde94b968433.jpg",
     "static/media/profilephoto1.jpg": "/portfolio/static/media/profilephoto1.fbe36b18bde94b968433.jpg",
     "static/media/sugarcosmetic.png": "/portfolio/static/media/sugarcosmetic.a56a65c3e0d0bba01e85.png",
@@ -10,11 +10,11 @@
     "static/media/instacart.png": "/portfolio/static/media/instacart.34913a0a658e251fd5fc.png",
     "static/media/GoDaday.png": "/portfolio/static/media/GoDaday.adc61da1d4556e7e3638.png",
     "index.html": "/portfolio/index.html",
-    "main.37e4c9b7.css.map": "/portfolio/static/css/main.37e4c9b7.css.map",
-    "main.b94d4f28.js.map": "/portfolio/static/js/main.b94d4f28.js.map"
+    "main.55c9ea8d.css.map": "/portfolio/static/css/main.55c9ea8d.css.map",
+    "main.4cdc09ff.js.map": "/portfolio/static/js/main.4cdc09ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.37e4c9b7.css",
-    "static/js/main.b94d4f28.js"
+    "static/css/main.55c9ea8d.css",
+    "static/js/main.4cdc09ff.js"
   ]
 }
