@@ -73,7 +73,31 @@ export default function Skills() {
             </div>
         </div>
           
-             <div style={{display:"flex"}}>
+
+        <div style={{display:"flex"}}>
+             <h1 className='calender_heading' >Github Statistics</h1>
+            </div>
+            
+
+            <div style={{margin:"auto",width:"65%",marginTop:"6%",height:"30%"}}><img  alt="Om kundu Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omkundu"  style={{width:"100%"}}/>
+            </div>
+         
+
+
+         <div style={{width:"30%",marginLeft:"20%"}}><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkundu&show_icons=true&locale=en&layout=compact"
+                             alt="omkundu"  style={{width:"100%"}} />
+        </div>
+
+        <div style={{width:"30%",marginLeft:"51%", marginTop:"-12.5%"}}><img align="center" src="https://github-readme-stats.vercel.app/api?username=omkundu&show_icons=true&locale=en" alt="omkundu" style={{width:"100%"}}  /></div>
+
+
+
+
+
+
+
+
+       <div style={{display:"flex"}}>
              <h1 className='calender_heading' >Github Calendar</h1>
             </div>
 
