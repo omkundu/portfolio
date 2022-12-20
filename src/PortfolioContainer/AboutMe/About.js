@@ -1,6 +1,7 @@
 import React from 'react';
 import "./About.css";
 import profilePic from "../../assets/profilephoto1.jpg"
+import omkundu from "../../../src/assets/omkundu.pdf"
 
 export default function About() {
     
@@ -37,9 +38,15 @@ export default function About() {
                         </ul>
                     </div>
                     <div className="profile-optins resumeBtn">
-                        <a href="https://drive.google.com/file/d/1NBpg7EhM-JnUERqSUTFOekC9036jc3Xe/view?usp=sharing" target="_blank" download="resume.pdf">
+                        {/* <a href="https://drive.google.com/file/d/1NBpg7EhM-JnUERqSUTFOekC9036jc3Xe/view?usp=sharing" target="_blank" download="resume.pdf">
                             <button className='resumeButton2'>Get Resume</button>
-                        </a>
+                        </a> */}
+
+
+                        <a href= {omkundu} download="omkundu" target="_blank" >
+                    {/* "https://drive.google.com/file/d/1NBpg7EhM-JnUERqSUTFOekC9036jc3Xe/view?usp=sharing" */}
+                        <button className='resumeButton'>Get Resume</button>
+                    </a>
                     </div>
                 </div>
             </div>
