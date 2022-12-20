@@ -11,7 +11,7 @@ export default function About() {
             <h3>About Me</h3>
             <p>Why Choose Me?</p>
             <span className='header-underline'>
-                <span className='header-underline1'></span>
+                <span className='header-underline1'>   </span>
             </span>
         </div>
 
