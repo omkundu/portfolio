@@ -2,6 +2,7 @@ import React from "react";
 import "./Navbar.css";
 import { Link } from 'react-scroll';
 import { useEffect } from "react";
+import omkundu from "../../../src/assets/omkundu.pdf"
 export default function Navbar() {
     let toggleMenuBar;
     const doSomething = () =>{
@@ -77,6 +78,30 @@ export default function Navbar() {
                     <Link to="Contact" spy={true} smooth={true} offset={0} duration={500}>
                         Contact
                     </Link>
+                                    <a
+                            href={omkundu}
+                            target="_blank"
+                            download="omkundu"
+                            style={{ color:"white",textDecoration:"none"}}
+                            >
+                            Resume
+                            {/* <button className="resumeButtonN">Get Resume</button> */}
+                            </a>
+              
+                 
+
+
+                        {/* <a href= {omkundu} download="omkundu" target="_blank" >
+                        {/* "https://drive.google.com/file/d/1NBpg7EhM-JnUERqSUTFOekC9036jc3Xe/view?usp=sharing" */}
+                            {/* <button className='resumeButton'>Get Resume</button>
+                        </a> */} 
+                   
+                    
+
+
+                    
+
+                    
             </div>
         </div>
         <div id="navMenuCollapsibleMenu" className="InActiveNavMenu">
