@@ -24,6 +24,7 @@ export default function About() {
                     <div className="profilesummary">
                     I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I'm always looking for better opportunity,  ethical and accessible ways to solve the common problems we are faced with day-to-day life
 
+
                     </div>
                     <div>
                         <h3>Here are a Few Highlights</h3>
